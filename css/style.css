@@ -1,0 +1,90 @@
+body{
+    background: #E5E5E5;
+}
+.bg-color{
+    width: 600px;
+    height: 550px;
+    background: #F5F4FA;
+    border-radius: 10px;
+}
+.list{
+    list-style: none;
+}
+.viber{
+    color: #7360f2 ;
+    width: 20;
+}
+.svaz{
+    display: flex;
+}
+.bg-color{
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+    
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+   
+   
+    
+}
+li{
+    align-items: baseline;
+}
+.viber{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+.nomer{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+a{
+    text-decoration: none;
+    color: rgb(240, 112, 8);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.03em;  
+    
+}
+h1{
+    text-align: center;
+}
+li{
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
+h1{
+    color: #212121;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+}
+li{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    
+}
+li{
+    border-bottom: 8px solid #EEE;
+    border-radius: 5px ;
+    width: 80%;
+}
